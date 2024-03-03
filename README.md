@@ -11,7 +11,7 @@ I am an 18-year-old teenager looking to develop myself as a programmer and am ea
 - 💬 Ask me about Computer Vision
 - 📫 How to reach me: [mochammadimannudin87@gmail.com](mailto:mochammadimannudin87@gmail.com)
 - 😄 Pronouns: he
-- ⚡ Fun fact: ?
+- ⚡ Fun fact: Bumi Itu Bulat
 
 <div align="center">
 <a href="https://saweria.co/Manztod" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
